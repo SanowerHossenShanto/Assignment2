@@ -50,8 +50,8 @@ font-weight: 800;
 
 .btn{
     background-color:#FF5400;
-    width: 174px;
-height: 52px;
+    width: 178px;
+height: 55px;
 
 border-radius: 8px;
 padding: 16px 35px 16px 35px;
@@ -227,6 +227,6 @@ padding-top:0px;
 border-radius: 16px;
 }
 .margin2{
-    margin-left:auto;
+    margin:52px 0px 50px 170px;
     margin-right: auto;
 }
