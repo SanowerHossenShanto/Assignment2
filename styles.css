@@ -338,18 +338,27 @@ gap: 20px;
 .home{
     
     width: 573px;
-height: 284px;
-flex-shrink: 0;
+height: 350px;
+
 border-radius: 16px;
 border: 1px solid rgba(251, 181, 99, 0.20);
 background: rgba(251, 181, 99, 0.05);
+padding-left: 32px;
 
 }
 .home-icon{
     width: 64px;
 height: 64px;
-padding: 32px 470px 188px 32px;
+padding: 22px 470px 18px 32px;
 }
 .margin-top{
     margin-top: 40px;
 }
+.black24{
+    color: #131318;
+
+font-size: 24px;
+
+font-weight: 800;
+}
+
