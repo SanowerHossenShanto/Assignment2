@@ -1,0 +1,175 @@
+/* font family */
+body {
+    font-family: 'Mulish', sans-serif;
+}
+/* shared style  */
+
+.flex {
+    display: flex;
+}
+
+.orange{
+    color:#FF5400; 
+}
+
+.black{
+    color: #131318;
+
+font-size: 36px;
+
+font-weight: 800;
+
+}
+
+.btn{
+    background-color:#FF5400;
+    width: 174px;
+height: 52px;
+
+border-radius: 8px;
+padding: 16px 35px 16px 35px;
+text-align: center;
+margin-left: 24px;
+
+}
+
+.align-center{
+        
+        align-items: center;
+        text-align: center;
+        
+}
+.spacebetween{
+    display: flex;
+    justify-content: space-between;
+}
+.trust-img{
+    width: 48px;
+height: 56.008px;
+margin-right:10px ;
+}
+.common-text{
+    color: rgba(19, 19, 24, 0.50);
+
+font-size: 16px;
+
+font-weight: 400;
+
+}
+
+.content-alignment{
+    /* display: block;
+    justify-content: center;
+    align-item: center; */
+    /* margin-left: auto;
+    margin-right: auto; */
+}
+/* Header style  */
+header{
+    margin:52px 130px 50px 200px;
+    max-width: 1440px;
+    
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    margin: 52px auto 50px auto ;
+}
+
+
+
+nav li {
+    list-style: none;
+    padding-right: 44px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #424247;
+
+    font-size: 18px;
+    font-weight: 400;
+}
+#id{
+    padding-left:40px;
+   
+}
+/* banner in header  */
+.banner{
+    
+
+    width:1400px;
+   height:600px;
+    background:url("Images/Group\ 13\ \(1\)\ \(1\).png");
+    background-repeat: no-repeat;
+    background-size:1350px;
+    max-width: 1440px;
+    display:flex;
+    justify-content: center;
+    margin-left:auto;
+    margin-right: auto;
+    border-radius: 10px;
+    
+
+   
+
+
+    
+   
+    
+}  
+.banner-text{
+
+    color: #FFF;
+
+font-size: 64px;
+
+font-weight: 800;
+padding: 106px 287px 24px;
+
+}
+.banner-content-text{
+    color: #FFF;
+text-align: center;
+
+font-size: 16px;
+
+font-weight: 400;
+padding: 0px 0px 48px 0px;
+
+}
+.btn-img{
+    width: 24px;
+height: 24px;
+padding-left: 0px;
+padding-right:0px;
+vertical-align:auto;
+}
+.option-box{
+    width: 174px;
+height: 52px;
+
+border-radius: 8px;
+background: #FFF;
+padding: 16px 84px 10px 16px;
+margin-left: 24px;
+
+}
+.find-btn-text{
+    color: #FFF;
+
+font-size: 16px;
+
+font-weight: 700;
+text-align: center;
+padding-top:0px;
+}
+ .justify{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ } 
+.option-section-padding{
+    padding: 0px 185px 122px;
+}
