@@ -216,7 +216,7 @@ padding-top:0px;
 .justify-pic{
     display: flex;
     justify-content: space-between;
-    max-width: 1300px;
+    
     /* align-items: center; */
     /* align-content: center; */
 }
