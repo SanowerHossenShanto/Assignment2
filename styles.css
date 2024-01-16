@@ -93,6 +93,9 @@ font-size: 16px;
 font-weight: 400;
 
 }
+max-width{
+    max-width: 1350px;
+}
 
 
 
@@ -207,9 +210,13 @@ padding-top:0px;
     padding: 0px 185px 122px;
 }
 /* Main section styles */
+/* popular tour section  */
 .popular-tour-image{
     width:600px;
      height: 560px;
 
 border-radius: 16px;
+}
+.left-margin{
+    margin-left: 230px;
 }
