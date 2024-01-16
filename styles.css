@@ -7,7 +7,7 @@ body {
     padding: 20px;
 }
 .margin{
-    margin:52px 130px 50px 200px;
+    margin:52px 130px 50px 130px;
 }
 .gap{
     gap: 50px;
@@ -206,7 +206,7 @@ padding-top:0px;
     display: flex;
     justify-content: center;
     align-items: center;
-    max-width: 1300px;
+    max-width: 1350px;
  } 
 .option-section-padding{
     padding: 0px 185px 122px;
@@ -216,9 +216,9 @@ padding-top:0px;
 .justify-pic{
     display: flex;
     justify-content: space-between;
-    max-width: 1350px;
-    align-items: center;
-    align-content: center;
+    max-width: 1300px;
+    /* align-items: center; */
+    /* align-content: center; */
 }
 .popular-tour-image{
     width:580px;
@@ -226,7 +226,7 @@ padding-top:0px;
 
 border-radius: 16px;
 }
-.margin2{
-    margin:52px 0px 50px 240px;
-    margin-right: auto;
+.justify2{
+    display:flex;
+ justify-content: center;
 }
