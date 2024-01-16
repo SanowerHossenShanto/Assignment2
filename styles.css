@@ -3,6 +3,15 @@ body {
     font-family: 'Mulish', sans-serif;
 }
 /* shared style  */
+.around-padding{
+    padding: 20px;
+}
+.margin{
+    margin:52px 130px 50px 200px;
+}
+.gap{
+    gap: 50px;
+}
 
 .flex {
     display: flex;
@@ -20,6 +29,24 @@ font-size: 36px;
 font-weight: 800;
 
 }
+.black40{
+    color: #131318;
+font-size: 40px;
+
+font-weight: 800;
+
+
+}
+.white28{
+    color: #FFF;
+text-align: center;
+
+font-size: 28px;
+
+font-weight: 800;
+
+}
+
 
 .btn{
     background-color:#FF5400;
@@ -30,9 +57,19 @@ border-radius: 8px;
 padding: 16px 35px 16px 35px;
 text-align: center;
 margin-left: 24px;
+border:0.5px;
 
 }
+.btn-text{
 
+    color: #FFF;
+text-align: center;
+
+font-size: 18px;
+
+font-weight: 800;
+
+}
 .align-center{
         
         align-items: center;
@@ -57,13 +94,8 @@ font-weight: 400;
 
 }
 
-.content-alignment{
-    /* display: block;
-    justify-content: center;
-    align-item: center; */
-    /* margin-left: auto;
-    margin-right: auto; */
-}
+
+
 /* Header style  */
 header{
     margin:52px 130px 50px 200px;
@@ -169,7 +201,15 @@ padding-top:0px;
     display: flex;
     justify-content: center;
     align-items: center;
+    max-width: 1300px;
  } 
 .option-section-padding{
     padding: 0px 185px 122px;
+}
+/* Main section styles */
+.popular-tour-image{
+    width:600px;
+     height: 560px;
+
+border-radius: 16px;
 }
