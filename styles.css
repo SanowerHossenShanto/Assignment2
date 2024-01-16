@@ -211,6 +211,11 @@ padding-top:0px;
 }
 /* Main section styles */
 /* popular tour section  */
+.justify-pic{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1350px;
+}
 .popular-tour-image{
     width:600px;
      height: 560px;
