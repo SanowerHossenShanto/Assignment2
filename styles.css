@@ -100,7 +100,11 @@ font-weight: 400;
     width: 45%;
 }
 
-
+main{
+    margin:52px 130px 50px 200px;
+    max-width: 1440px;
+    
+}
 /* Header style  */
 header{
     margin:52px 130px 50px 200px;
@@ -230,3 +234,8 @@ border-radius: 16px;
     display:flex;
  justify-content: center;
 }
+/* finished */
+
+
+/* destination section  */
+
