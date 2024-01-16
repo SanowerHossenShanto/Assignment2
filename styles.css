@@ -136,11 +136,11 @@ nav a {
 .banner{
     
 
-    width:1300px;
+    width:1400px;
    height:600px;
     background:url("Images/Group\ 13\ \(1\)\ \(1\).png");
     background-repeat: no-repeat;
-    background-size:1350px;
+    background-size:1400px;
     max-width: 1440px;
     display:flex;
     justify-content: center;
