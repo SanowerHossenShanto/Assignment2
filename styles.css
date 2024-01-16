@@ -215,6 +215,8 @@ padding-top:0px;
     display: flex;
     justify-content: space-between;
     max-width: 1350px;
+    align-items: center;
+    align-content: center;
 }
 .popular-tour-image{
     width:600px;
