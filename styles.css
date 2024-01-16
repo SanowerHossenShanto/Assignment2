@@ -41,6 +41,7 @@ font-weight: 800;
     color: #FFF;
 text-align: center;
 
+
 font-size: 28px;
 
 font-weight: 800;
@@ -139,7 +140,7 @@ nav a {
 /* banner in header  */
 .banner{
     
-
+   
     width:1400px;
    height:600px;
     background:url("Images/Group\ 13\ \(1\)\ \(1\).png");
@@ -238,4 +239,99 @@ border-radius: 16px;
 
 
 /* destination section  */
+.mld{
+    background-image: url(Images/Rectangle\ 5.png);
+    background-repeat: no-repeat;
+    width:673px;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+height: 300px;
+border-radius: 16px;
 
+
+
+}
+.indo{
+    background-image: url(Images/Rectangle\ 8.png);
+    background-repeat: no-repeat;
+    
+    width:673px;
+    height: 300px;
+    border-radius: 16px;
+
+    
+    
+
+}
+.sri{
+
+    background-image: url(Images/Rectangle\ 6.png);
+    background-repeat: no-repeat;
+    width: 374px;
+height: 286px;
+border-radius: 16px;
+
+
+}
+.north{
+    background-image: url(Images/Rectangle\ 7.png);
+    background-repeat: no-repeat;
+    width: 474px;
+height: 286px;
+border-radius: 16px;
+
+}
+.Kashmir{
+    background-image: url(Images/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    width: 274px;
+height: 286px;
+border-radius: 16px;
+
+}
+.ban{
+    background-image: url(Images/Rectangle\ 11.png);
+    background-repeat: no-repeat;
+    width: 473px;
+    height: 300px;
+    border-radius: 16px;
+
+}
+.bandr{
+    background-image: url(Images/Rectangle\ 10.png);
+    background-repeat: no-repeat;
+    width: 673px;
+height: 300px;
+border-radius: 16px;
+
+}
+/* .grid2{
+    display: grid;
+    grid-template-columns:repeat(2,1fr);
+    
+margin: 20px;
+gap: 20px; */
+
+
+/* } */
+.flexs{
+    display: flex;
+    gap: 5px;
+    
+}
+.grid3{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    
+margin: 20px;
+gap: 20px;
+
+}
+
+.choose-text-padding{
+    padding: 100px 340px 30px;
+}
+.bg-margin{
+    margin:50px 135px 100px ;
+}
