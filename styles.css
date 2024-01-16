@@ -361,4 +361,110 @@ font-size: 24px;
 
 font-weight: 800;
 }
+/* deals and discount section  */
+.indonesia{
+    margin-top: 100px;
+    background-image: url(Images/Group\ 13\ \(1\)\ \(1\).png);
+    width: 1290px;
+    height: 600px;
+    background-repeat: no-repeat;
+   
+}
+.america{
+    margin-top: 30px;
+    background-image: url(Images/Group\ 39.png);
+    width: 1290px;
+height: 600px;
+background-repeat: no-repeat;
 
+}
+.Bangladesh{
+    margin-top: 30px;
+    background-image: url(Images/Group\ 40.png);
+    width: 1290px;
+height: 600px;
+background-repeat: no-repeat;
+
+}
+.see-btn{
+    color: #FFF;
+text-align: center;
+
+font-size: 20px;
+
+font-weight: 800;
+background-color:#FF5400;
+width: 210px;
+height: 62px;
+border-radius: 8px;
+border: 1px;
+padding: 16px;
+}
+.video{
+    width: 650px;
+height: 500px;
+
+border-radius: 26px;
+border-top: #FFF;
+}
+.input{
+    width: 180px;
+height: 12px;
+flex-shrink: 0;
+border-radius: 8px;
+background: rgba(19, 19, 24, 0.05);
+padding:16px 200px 16px 20px;
+}
+.boder{
+    border: 1px solid orangered;
+    border-radius: 5px;
+    width: 400px;
+height: 350px;
+padding: 35px;
+margin-top: 100px;
+}
+.subs-btn{
+    
+        color: #FFF;
+    text-align: center;
+    
+    font-size: 20px;
+    
+    font-weight: 800;
+    background-color:#FF5400;
+    width: 400px;
+    height: 52px;
+    border-radius: 8px;
+    border: 1px;
+    padding: 16px;
+}
+.discount1{
+    background-image: url(Images/Rectangle\ 8\ \(1\).png);
+    width: 650px;
+height: 422px;
+flex-shrink: 0;
+border-radius: 16px;
+background-repeat:no-repeat;
+margin-top: 90px;
+position: relative;
+margin-left:-4px;
+}
+.trav-btn{
+    width: 324px;
+height: 120px;
+transform: rotate(-25.628deg);
+flex-shrink: 0;
+border-radius: 16px;
+background: #FF5400;
+color: #FFF;
+font-weight: 800;
+font-size: 32px;
+position: relative;
+bottom: -240px;
+left: 320px;
+
+
+
+
+
+}
